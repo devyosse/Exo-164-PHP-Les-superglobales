@@ -7,3 +7,6 @@
  * 3. Uploadez ce projet sur votre serveur et testez !
  */
 // TODO Votre code ici
+
+echo $_SERVER['HTTP_USER_AGENT'];
+
